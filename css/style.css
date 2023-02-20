@@ -28,6 +28,11 @@ main .py-5.__aqua .container .d-flex.flex-column.align-items-center .__img{
     max-width: 200px;
 }
 
+/* .__color-text .border-bottom .border-5 .px-5 .mb-4{
+    border-color: #2c3e50;
+    opacity: 0;
+} */
+
 
 .form-control::placeholder{
     color: black;
@@ -36,6 +41,11 @@ main .py-5.__aqua .container .d-flex.flex-column.align-items-center .__img{
 .__contacts{
     background-color: #3a546d;
     color: white;
+}
+
+
+.fs-6 .fa-brands .fa-facebook-f .border .p-3 .rounded-circle{
+    padding: 0 50px;
 }
 
 
